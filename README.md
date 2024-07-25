@@ -2,6 +2,10 @@
 <br>
 <br>
 <br>
+<img src="welcome.jpg" alt="welcome">
+<br>
+<br>
+<br>
 Hi welcome to my website
 <br>
 <br>
